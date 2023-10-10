@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604121140186",
+    "project_id": "toptenapp-20a49",
+    "storage_bucket": "toptenapp-20a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604121140186:android:229106a9e8f1a21636cee3",
+        "android_client_info": {
+          "package_name": "com.example.topten_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8_GdBC9tzx2nJnB53b-bs_IQgat1N_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
